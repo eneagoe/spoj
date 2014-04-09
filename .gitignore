@@ -1,0 +1,4 @@
+.DS_Store
+problems/*
+ruby/temp/*
+python/*.pyc

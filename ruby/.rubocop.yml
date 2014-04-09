@@ -1,0 +1,21 @@
+AllCops:
+  Exclude:
+    - 'temp/**'
+
+StringLiterals:
+  EnforcedStyle: double_quotes
+
+SpaceInsideHashLiteralBraces:
+  EnforcedStyle: no_space
+
+DotPosition:
+  EnforcedStyle: trailing
+
+ClassAndModuleChildren:
+  Enabled: false
+
+MethodLength:
+  Max: 15
+
+Semicolon:
+  AllowAsExpressionSeparator: true
